@@ -29,7 +29,7 @@ The dashboard consists of several key performance views that cover demographic, 
 
 ---
 
-### **Page 1: Income by Bracket & Demographics**
+### Income by Bracket & Demographics
 - **Total Income**: **$56,360**
 - **Top Bracket**: **Mid-Level** contributors generate nearly 50% of total income
 - **Age Group Distribution**:
@@ -41,14 +41,14 @@ The dashboard consists of several key performance views that cover demographic, 
 
 ---
 
-### **Page 2: Education & Occupation-Based Income**
+### Education & Occupation-Based Income
 - **Top Education Group**: **Bachelor’s Degree** holders contribute **$19,280**
 - **Highest Paying Occupation**: **Professional roles** ($20,720), followed by **Management** ($14,990)
 - **Lowest Earning Education Tier**: **Some High School** ($2,620)
 
 ---
 
-### **Page 3: Regional & Lifestyle Insights**
+### Regional & Lifestyle Insights
 - **Top Region**: **North America** ($31,880)
 - **Other Regions**:
   - Europe: $12,270  
